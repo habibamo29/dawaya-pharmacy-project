@@ -1,0 +1,574 @@
+transaction_id,transaction_date,branch_id,branch_name,branch_address,pharmacist_id,pharmacist_name,customer_id,customer_name,customer_phone,payment_method,product_id,product_name,category_name,unit_price,quantity_sold,total_line_price
+TXN-7001,2026-07-01 13:37,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Cash,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7001,2026-07-01 13:37,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Cash,SKU-1013,Accu-Chek Test Strips 50,Diabetes,540.00,1,540.00
+TXN-7001,2026-07-01 13:37,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Cash,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,455.00,1,455.00
+TXN-7004,2026-07-01 16:22,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1006,Ciprofar 500mg 10 Tabs,Antibiotics,64.00,4,256.00
+TXN-7004,2026-07-01 16:22,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,312.00,2,624.00
+TXN-7004,2026-07-01 16:22,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1004,Augmentin 1g 14 Tabs,Antibiotics,172.00,1,172.00
+TXN-7006,2026-07-01 10:35,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-48235,Omar El-Sayed,+20 10 0434 5976,Cash,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,312.00,1,312.00
+TXN-7007,2026-07-02 15:36,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,,,,InstaPay,SKU-1010,Glucophage 1000mg 30 Tabs,Diabetes,68.00,1,68.00
+TXN-7007,2026-07-02 15:36,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,,,,InstaPay,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,2,132.00
+TXN-7007,2026-07-02 15:36,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,,,,InstaPay,SKU-1007,Concor 5 mg,Cardiovascular,92.00,2,184.00
+TXN-7008,2026-07-02 17:32,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,,,,InstaPay,SKU-1012,Lantus SoloStar Pen,Diabetes,925.00,1,925.00
+TXN-7008,2026-07-02 17:32,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,,,,InstaPay,SKU-1016,Vitamin D3 Drops 10ml,Vitamins & Supplements,118.00,1,118.00
+TXN-7008,2026-07-02 17:32,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,,,,InstaPay,SKU-1024,Gaviscon Liquid 200ml,Digestive Health,132.00,1,132.00
+TXN-7009,2026-07-02 15:01,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-91677,Aya Farouk,01227151814,InstaPay,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,1,236.00
+TXN-7009,2026-07-02 15:01,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-91677,Aya Farouk,01227151814,InstaPay,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,2,104.00
+TXN-7009,2026-07-02 15:01,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-91677,Aya Farouk,01227151814,InstaPay,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,4,164.00
+TXN-7009,2026-07-02 15:01,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-91677,Aya Farouk,01227151814,InstaPay,SKU-1027,La Roche-Posay Anthelios SPF50,Skin Care,1120.00,1,1120.00
+TXN-7011,2026-07-03 18:11,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,,,,Cash,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,2,316.00
+TXN-7014,2026-07-03 10:57,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-43611,Mariam Nasser,01197823480,Cash,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,610.00,1,610.00
+TXN-7017,2026-07-04 14:34,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-96727,Reem Nasser,01020751130,InstaPay,SKU-1006,Ciprofar 500mg 10 Tabs,Antibiotics,64.00,2,128.00
+TXN-7017,2026-07-04 14:34,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-96727,Reem Nasser,01020751130,InstaPay,SKU-1010,Glucophage 1000mg 30 Tabs,Diabetes,68.00,1,68.00
+TXN-7017,2026-07-04 14:34,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-96727,Reem Nasser,01020751130,InstaPay,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,1,345.00
+TXN-7019,2026-07-04 17:17,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-27671,Omar Ragab,01571048191,Card,SKU-1013,Accu-Chek Test Strips 50,Diabetes,540.00,3,1620.00
+TXN-7019,2026-07-04 17:17,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-27671,Omar Ragab,01571048191,Card,SKU-1001,Panadol Extra,Pain Relief,72.00,4,288.00
+TXN-7020,2026-07-04 21:28,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-21372,Aya Hassan,01268605733,InstaPay,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,1,86.00
+TXN-7020,2026-07-04 21:28,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-21372,Aya Hassan,01268605733,InstaPay,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,1,41.00
+TXN-7023,2026-07-05 20:23,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-83755,Mona Hegazy,01160436506,Cash,SKU-1011,Amaryl 2mg 30 Tabs,Diabetes,84.00,1,84.00
+TXN-7023,2026-07-05 20:23,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-83755,Mona Hegazy,01160436506,Cash,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,2,92.00
+TXN-7023,2026-07-05 20:23,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-83755,Mona Hegazy,01160436506,Cash,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,3,162.00
+TXN-7023,2026-07-05 20:23,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-83755,Mona Hegazy,01160436506,Cash,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,3,258.00
+TXN-7024,2026-07-05 15:09,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-55196,Mostafa Ezzat,01576777825,Card,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,1,118.00
+TXN-7024,2026-07-05 15:09,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-55196,Mostafa Ezzat,01576777825,Card,SKU-1011,Amaryl 2mg 30 Tabs,Diabetes,84.00,2,168.00
+TXN-7024,2026-07-05 15:09,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-55196,Mostafa Ezzat,01576777825,Card,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,2,108.00
+TXN-7024,2026-07-05 15:09,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-55196,Mostafa Ezzat,01576777825,Card,SKU-1010,Glucophage 1000mg 30 Tabs,Diabetes,68.00,3,204.00
+TXN-7027,2026-07-05 10:34,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-18160,Hassan Mansour,01249855208,Cash,SKU-1010,Glucophage 1000mg 30 Tabs,Diabetes,68.00,2,136.00
+TXN-7029,2026-07-06 10:21,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1013,Accu-Chek Test Strips 50,Diabetes,540.00,1,540.00
+TXN-7029,2026-07-06 10:21,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,4,164.00
+TXN-7031,2026-07-06 13:54,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-62756,Omar Ezzat,01563218552,Card,SKU-1009,Aspocid 75mg 30 Tabs,Cardiovascular,18.00,2,36.00
+TXN-7031,2026-07-06 13:54,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-62756,Omar Ezzat,01563218552,Card,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,1,598.00
+TXN-7034,2026-07-06 13:01,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-89585,Ali El-Sayed,01552171365,Cash,SKU-1023,Antinal 24 Caps,Digestive Health,38.00,3,114.00
+TXN-7037,2026-07-07 21:22,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,2,132.00
+TXN-7037,2026-07-07 21:22,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,2,82.00
+TXN-7037,2026-07-07 21:22,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,2,1196.00
+TXN-7038,2026-07-07 12:35,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,,,,Card,SKU-1012,Lantus SoloStar Pen,Diabetes,925.00,1,925.00
+TXN-7038,2026-07-07 12:35,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,,,,Card,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,1,236.00
+TXN-7038,2026-07-07 12:35,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,,,,Card,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,1,46.00
+TXN-7038,2026-07-07 12:35,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,,,,Card,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,1,158.00
+TXN-7039,2026-07-07 21:15,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-63022,Sara Farouk,01146859470,Cash,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,1,41.00
+TXN-7041,2026-07-07 11:41,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-86297,Mostafa Shalaby,01536019223,Cash,SKU-1023,Antinal 24 Caps,Digestive Health,38.00,3,114.00
+TXN-7041,2026-07-07 11:41,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-86297,Mostafa Shalaby,01536019223,Cash,SKU-1024,Gaviscon Liquid 200ml,Digestive Health,132.00,3,396.00
+TXN-7041,2026-07-07 11:41,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-86297,Mostafa Shalaby,01536019223,Cash,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,1,598.00
+TXN-7044,2026-07-08 16:07,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-91770,Mona Ezzat,+20 11 9072 1870,InstaPay,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7046,2026-07-08 20:21,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-87082,Dina Lotfy,01515796116,Cash,SKU-1012,Lantus SoloStar Pen,Diabetes,925.00,1,925.00
+TXN-7046,2026-07-08 20:21,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-87082,Dina Lotfy,01515796116,Cash,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,1,41.00
+TXN-7047,2026-07-08 16:14,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,,,,Card,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7047,2026-07-08 16:14,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,,,,Card,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7050,2026-07-09 09:09,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-99104,Ali Lotfy,01579723167,Cash,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,312.00,1,312.00
+TXN-7050,2026-07-09 09:09,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-99104,Ali Lotfy,01579723167,Cash,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,1,46.00
+TXN-7050,2026-07-09 09:09,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-99104,Ali Lotfy,+20 15 7972 3167,Cash,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,4,344.00
+TXN-7052,2026-07-09 18:48,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-57081,Omar Fawzy,+20 15 5450 6775,Cash,SKU-1028,Eucerin Urea Lotion 250ml,Skin Care,705.00,1,705.00
+TXN-7054,2026-07-09 12:43,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-79122,Tarek Gaber,01269989348,Cash,SKU-1023,Antinal 24 Caps,Digestive Health,38.00,2,76.00
+TXN-7055,2026-07-09 17:07,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,,,,Cash,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,1,46.00
+TXN-7055,2026-07-09 17:07,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,,,,Cash,SKU-1013,Accu-Chek Test Strips 50,Diabetes,540.00,1,540.00
+TXN-7057,2026-07-10 19:27,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-17530,Mahmoud Ezzat,+20 10 6568 5117,Card,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,1,41.00
+TXN-7058,2026-07-10 21:36,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-84944,Mostafa Hassan,+20 11 9674 1361,Cash,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,1,92.00
+TXN-7058,2026-07-10 21:36,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-84944,Mostafa Hassan,01196741361,Cash,SKU-1010,Glucophage 1000mg 30 Tabs,Diabetes,68.00,4,272.00
+TXN-7058,2026-07-10 21:36,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-84944,Mostafa Hassan,01196741361,Cash,SKU-1024,Gaviscon Liquid 200ml,Digestive Health,132.00,2,264.00
+TXN-7059,2026-07-10 10:28,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-39440,Aya Ibrahim,01070613561,Card,SKU-1011,Amaryl 2mg 30 Tabs,Diabetes,84.00,1,84.00
+TXN-7059,2026-07-10 10:28,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-39440,Aya Ibrahim,01070613561,Card,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,3,138.00
+TXN-7060,2026-07-10 20:03,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-26876,Reem Gaber,+20 15 8633 5778,Cash,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7060,2026-07-10 20:03,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-26876,Reem Gaber,01586335778,Cash,SKU-1027,La Roche-Posay Anthelios SPF50,Skin Care,1120.00,1,1120.00
+TXN-7063,2026-07-11 10:46,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-86297,Mostafa Shalaby,01536019223,Card,SKU-1010,Glucophage 1000,Diabetes,68.00,1,68.00
+TXN-7063,2026-07-11 10:46,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-86297,Mostafa Shalaby,01536019223,Card,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,1,598.00
+TXN-7064,2026-07-11 10:45,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-43700,Youssef Soliman,01036870565,Card,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7064,2026-07-11 10:45,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-43700,Youssef Soliman,01036870565,Card,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,1,66.00
+TXN-7066,2026-07-11 20:45,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-58782,Ahmed Ezzat,01514953044,Card,SKU-1006,Ciprofar 500mg 10 Tabs,Antibiotics,64.00,1,64.00
+TXN-7066,2026-07-11 20:45,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-58782,Ahmed Ezzat,01514953044,Card,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,2,108.00
+TXN-7069,2026-07-12 18:22,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-86297,Mostafa Shalaby,+20 15 3601 9223,Card,SKU-1024,Gaviscon Liquid 200ml,Digestive Health,132.00,3,396.00
+TXN-7072,2026-07-12 17:51,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,CU-86590,Hana Abdelaziz,01511941265,Cash,SKU-1032,Sudocrem 125g,Baby Care,210.00,3,630.00
+TXN-7072,2026-07-12 17:51,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,CU-86590,Hana Abdelaziz,01511941265,Cash,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,1,118.00
+TXN-7072,2026-07-12 17:51,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,CU-86590,Hana Abdelaziz,01511941265,Cash,SKU-1004,Augmentin 1g 14 Tabs,Antibiotics,172.00,1,172.00
+TXN-7073,2026-07-12 11:07,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-38170,Mohamed Ibrahim,01064827799,InstaPay,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,1,118.00
+TXN-7075,2026-07-13 16:50,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-94033,Tarek Lotfy,01065060842,Cash,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,1,345.00
+TXN-7076,2026-07-13 21:52,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-30220,Rania Hegazy,01096410618,Card,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7077,2026-07-14 11:51,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,CU-86590,Hana Abdelaziz,+20 15 1194 1265,Cash,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,2,104.00
+TXN-7077,2026-07-14 11:51,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,CU-86590,Hana Abdelaziz,01511941265,Cash,SKU-1025,Bepanthen Cream 30g,Skin Care,142.00,1,142.00
+TXN-7079,2026-07-14 17:43,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-62756,Omar Ezzat,+20 15 6321 8552,InstaPay,SKU-1012,Lantus SoloStar Pen,Diabetes,925.00,1,925.00
+TXN-7079,2026-07-14 17:43,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-62756,Omar Ezzat,01563218552,InstaPay,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,34.00
+TXN-7081,2026-07-15 09:40,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-39440,Aya Ibrahim,01070613561,Cash,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,1,92.00
+TXN-7081,2026-07-15 09:40,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-39440,Aya Ibrahim,01070613561,Cash,SKU-1024,Gaviscon Liquid 200ml,Digestive Health,132.00,2,264.00
+TXN-7081,2026-07-15 09:40,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-39440,Aya Ibrahim,01070613561,Cash,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7081,2026-07-15 09:40,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-39440,Aya Ibrahim,01070613561,Cash,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,4,208.00
+TXN-7084,2026-07-15 12:45,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-71706,Nour Ezzat,01188464438,InstaPay,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7084,2026-07-15 12:45,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-71706,Nour Ezzat,+20 11 8846 4438,InstaPay,SKU-1023,Antinal 24 Caps,Digestive Health,38.00,1,38.00
+TXN-7087,2026-07-16 14:29,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-35890,Hana Naguib,01132043634,Cash,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,1,86.00
+TXN-7089,2026-07-16 17:28,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-23230,Mariam Shalaby,01551415367,InstaPay,SKU-1029,Pampers 4 Maxi 52,Baby Care,455.00,2,910.00
+TXN-7089,2026-07-16 17:28,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-23230,Mariam Shalaby,01551415367,InstaPay,SKU-1012,Lantus SoloStar Pen,Diabetes,925.00,1,925.00
+TXN-7089,2026-07-16 17:28,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-23230,Mariam Shalaby,01551415367,InstaPay,SKU-1023,Antinal 24 Caps,Digestive Health,38.00,1,38.00
+TXN-7091,2026-07-16 18:03,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-99104,Ali Lotfy,01579723167,Cash,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,1,66.00
+TXN-7093,2026-07-17 12:53,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-48235,Omar El-Sayed,01004345976,Card,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,1,598.00
+TXN-7096,2026-07-17 09:58,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,,,,Cash,SKU-1022,Nexium 40mg 14 Tabs,Digestive Health,248.00,1,248.00
+TXN-7096,2026-07-17 09:58,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,,,,Cash,SKU-1010,Glucophage 1000mg 30 Tabs,Diabetes,68.00,3,204.00
+TXN-7096,2026-07-17 09:58,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,,,,Cash,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,312.00,1,312.00
+TXN-7099,2026-07-17 19:52,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-91126,Reem Lotfy,01552143529,Cash,SKU-1022,Nexium 40mg 14 Tabs,Digestive Health,248.00,2,496.00
+TXN-7099,2026-07-17 19:52,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-91126,Reem Lotfy,+20 15 5214 3529,Cash,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7100,2026-07-18 19:11,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,,,,Cash,SKU-1006,Ciprofar 500mg 10 Tabs,Antibiotics,64.00,1,64.00
+TXN-7100,2026-07-18 19:11,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,,,,Cash,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,1,52.00
+TXN-7100,2026-07-18 19:11,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,,,,Cash,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,455.00,1,455.00
+TXN-7100,2026-07-18 19:11,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,,,,Cash,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,1,236.00
+TXN-7103,2026-07-18 15:45,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-82649,Sara Farouk,01274908801,InstaPay,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,312.00,1,312.00
+TXN-7103,2026-07-18 15:45,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-82649,Sara Farouk,01274908801,InstaPay,SKU-1022,Nexium 40mg 14 Tabs,Digestive Health,248.00,3,744.00
+TXN-7104,2026-07-18 21:30,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-35481,Salma Kamel,01580124300,Cash,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,2,132.00
+TXN-7104,2026-07-18 21:30,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-35481,Salma Kamel,+20 15 8012 4300,Cash,SKU-1022,Nexium 40mg 14 Tabs,Digestive Health,248.00,4,992.00
+TXN-7104,2026-07-18 21:30,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-35481,Salma Kamel,01580124300,Cash,SKU-1023,Antinal 24 Caps,Digestive Health,38.00,1,38.00
+TXN-7106,2026-07-19 10:06,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-50306,Hassan Soliman,01058806059,Cash,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,4,208.00
+TXN-7106,2026-07-19 10:06,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-50306,Hassan Soliman,+20 10 5880 6059,Cash,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,1,92.00
+TXN-7108,2026-07-19 21:55,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-96761,Mariam Mansour,01535321727,Cash,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,1,92.00
+TXN-7108,2026-07-19 21:55,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-96761,Mariam Mansour,01535321727,Cash,SKU-1022,Nexium 40mg 14 Tabs,Digestive Health,248.00,2,496.00
+TXN-7108,2026-07-19 21:55,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-96761,Mariam Mansour,01535321727,Cash,SKU-1027,La Roche-Posay Anthelios SPF50,Skin Care,1120.00,1,1120.00
+TXN-7109,2026-07-19 11:53,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohammed Saber,CU-58169,Yasmin Hassan,01023158761,Cash,SKU-1023,Antinal 24 Caps,Digestive Health,38.00,1,38.00
+TXN-7109,2026-07-19 11:53,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-58169,Yasmin Hassan,01023158761,Cash,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,312.00,1,312.00
+TXN-7110,2026-07-19 21:10,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-62399,Ali Farouk,01090092637,Cash,SKU-1006,Ciprofar 500mg 10 Tabs,Antibiotics,64.00,1,64.00
+TXN-7110,2026-07-19 21:10,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-62399,Ali Farouk,01090092637,Cash,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,610.00,3,1830.00
+TXN-7110,2026-07-19 21:10,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-62399,Ali Farouk,01090092637,Cash,SKU-1012,Lantus SoloStar Pen,Diabetes,925.00,1,925.00
+TXN-7110,2026-07-19 21:10,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-62399,Ali Farouk,01090092637,Cash,SKU-1016,Vitamin D3 Drops 10ml,Vitamins & Supplements,118.00,3,354.00
+TXN-7112,2026-07-20 13:47,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,,,,Card,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,1,86.00
+TXN-7115,2026-07-20 20:48,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-35481,Salma Kamel,+20 15 8012 4300,InstaPay,SKU-1032,Sudocrem 125g,Baby Care,210.00,2,420.00
+TXN-7115,2026-07-20 20:48,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-35481,Salma Kamel,01580124300,InstaPay,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,1,52.00
+TXN-7118,2026-07-21 13:50,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-72927,Rania Lotfy,01192978345,Cash,SKU-1009,Aspocid 75mg 30 Tabs,Cardiovascular,18.00,3,54.00
+TXN-7120,2026-07-21 16:36,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,CU-32196,Mostafa Farouk,01569434718,Cash,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,1,345.00
+TXN-7120,2026-07-21 16:36,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,CU-32196,Mostafa Farouk,+20 15 6943 4718,Cash,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,1,86.00
+TXN-7121,2026-07-21 13:38,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-52813,Yasmin Kamel,01528097932,Cash,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,1,66.00
+TXN-7123,2026-07-22 20:29,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-59644,Amr Hassan,01168272647,Card,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,4,264.00
+TXN-7126,2026-07-22 15:12,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-96727,Reem Nasser,01020751130,InstaPay,SKU-1011,Amaryl 2mg 30 Tabs,Diabetes,84.00,4,336.00
+TXN-7126,2026-07-22 15:12,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-96727,Reem Nasser,01020751130,InstaPay,SKU-1010,Glucophage 1000mg 30 Tabs,Diabetes,68.00,1,68.00
+TXN-7129,2026-07-23 13:07,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-63022,Sara Farouk,01146859470,Cash,SKU-1009,Aspocid 75mg 30 Tabs,Cardiovascular,18.00,2,36.00
+TXN-7129,2026-07-23 13:07,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-63022,Sara Farouk,01146859470,Cash,SKU-1001,Panadol Extra 24 Tabs,Pain Relief,72.00,1,72.00
+TXN-7130,2026-07-23 14:43,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,,,,InstaPay,SKU-1028,Eucerin Urea Lotion 250ml,Skin Care,705.00,1,705.00
+TXN-7132,2026-07-23 15:18,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-27671,Omar Ragab,01571048191,Card,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,1,158.00
+TXN-7132,2026-07-23 15:18,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-27671,Omar Ragab,01571048191,Card,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,2,132.00
+TXN-7133,2026-07-24 17:43,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-59319,Laila Hassan,01110057672,InstaPay,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,3,156.00
+TXN-7133,2026-07-24 17:43,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-59319,Laila Hassan,01110057672,InstaPay,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,1,92.00
+TXN-7135,2026-07-24 10:30,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-89823,Karim Mahmoud,01517320909,Cash,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,2,316.00
+TXN-7137,2026-07-24 17:44,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-31004,Amr Badawy,01212392998,InstaPay,SKU-1007,Concor 5 mg,Cardiovascular,92.00,4,368.00
+TXN-7137,2026-07-24 17:44,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-31004,Amr Badawy,01212392998,InstaPay,SKU-1025,Bepanthen Cream 30g,Skin Care,142.00,1,142.00
+TXN-7138,2026-07-25 16:23,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-48235,Omar El-Sayed,01004345976,Card,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,1,118.00
+TXN-7138,2026-07-25 16:23,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-48235,Omar El-Sayed,01004345976,Card,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,312.00,2,624.00
+TXN-7140,2026-07-25 20:49,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-57081,Omar Fawzy,01554506775,Cash,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,312.00,2,624.00
+TXN-7143,2026-07-25 18:47,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,CU-10109,Mona Sherif,01568023904,Card,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,4,1380.00
+TXN-7144,2026-07-26 12:42,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-71042,Hassan Shalaby,01245742175,Card,SKU-1004,Augmentin 1g 14 Tabs,Antibiotics,172.00,1,172.00
+TXN-7146,2026-07-26 15:01,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-72927,Rania Lotfy,01192978345,Cash,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,1,86.00
+TXN-7146,2026-07-26 15:01,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-72927,Rania Lotfy,01192978345,Cash,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,455.00,1,455.00
+TXN-7146,2026-07-26 15:01,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-72927,Rania Lotfy,01192978345,Cash,SKU-1011,Amaryl 2mg 30 Tabs,Diabetes,84.00,2,168.00
+TXN-7148,2026-07-26 19:35,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-37599,Khaled Mansour,01084824080,InstaPay,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,1,92.00
+TXN-7149,2026-07-27 12:44,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-79122,Tarek Gaber,+20 12 6998 9348,Cash,SKU-1001,Panadol Extra 24 Tabs,Pain Relief,72.00,2,144.00
+TXN-7149,2026-07-27 12:44,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-79122,Tarek Gaber,01269989348,Cash,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,2,1196.00
+TXN-7150,2026-07-27 16:31,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-45142,Omar Naguib,01594519362,Cash,SKU-1024,Gaviscon Liquid 200ml,Digestive Health,132.00,4,528.00
+TXN-7152,2026-07-27 20:38,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,,,,Cash,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,1,118.00
+TXN-7152,2026-07-27 20:38,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,,,,Cash,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,610.00,2,1220.00
+TXN-7155,2026-07-28 11:51,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-92938,Karim Farouk,01543404431,Cash,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,312.00,1,312.00
+TXN-7155,2026-07-28 11:51,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-92938,Karim Farouk,01543404431,Cash,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,610.00,1,610.00
+TXN-7157,2026-07-28 12:28,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-96761,Mariam Mansour,01535321727,Cash,SKU-1032,Sudocrem 125g,Baby Care,210.00,4,840.00
+TXN-7157,2026-07-28 12:28,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-96761,Mariam Mansour,01535321727,Cash,SKU-1023,Antinal 24 Caps,Digestive Health,38.00,2,76.00
+TXN-7160,2026-07-28 21:51,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-47679,Hassan Naguib,01097727125,Cash,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,1,52.00
+TXN-7160,2026-07-28 21:51,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-47679,Hassan Naguib,01097727125,Cash,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,312.00,3,936.00
+TXN-7160,2026-07-28 21:51,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-47679,Hassan Naguib,+20 10 9772 7125,Cash,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,1,236.00
+TXN-7160,2026-07-28 21:51,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-47679,Hassan Naguib,01097727125,Cash,SKU-1013,Accu-Chek Test Strips 50,Diabetes,540.00,2,1080.00
+TXN-7163,2026-07-28 14:04,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-18160,Hassan Mansour,01249855208,Cash,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,1,598.00
+TXN-7163,2026-07-28 14:04,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-18160,Hassan Mansour,01249855208,Cash,SKU-1001,Panadol Extra 24 Tabs,Pain Relief,72.00,1,72.00
+TXN-7165,2026-07-29 11:29,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,,,,Cash,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,1,236.00
+TXN-7165,2026-07-29 11:29,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,,,,Cash,SKU-1025,Bepanthen Cream 30g,Skin Care,142.00,1,142.00
+TXN-7165,2026-07-29 11:29,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,,,,Cash,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7166,2026-07-29 13:07,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,1,345.00
+TXN-7166,2026-07-29 13:07,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1016,Vitamin D3 Drops 10ml,Vitamins & Supplements,118.00,1,118.00
+TXN-7166,2026-07-29 13:07,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,1,46.00
+TXN-7167,2026-07-29 17:58,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-59644,Amr Hassan,01168272647,Cash,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,2,184.00
+TXN-7167,2026-07-29 17:58,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-59644,Amr Hassan,01168272647,Cash,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7170,2026-07-30 21:04,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-40223,Sara Hegazy,01100811672,Cash,SKU-1028,Eucerin Urea Lotion 250ml,Skin Care,705.00,1,705.00
+TXN-7170,2026-07-30 21:04,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-40223,Sara Hegazy,01100811672,Cash,SKU-1027,La Roche-Posay Anthelios SPF50,Skin Care,1120.00,1,1120.00
+TXN-7172,2026-07-30 12:59,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-60599,Reem Fawzy,01234943910,Card,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,3,258.00
+TXN-7175,2026-07-30 11:53,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Cash,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,1,598.00
+TXN-7175,2026-07-30 11:53,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Cash,SKU-1004,Augmentin 1g 14 Tabs,Antibiotics,172.00,2,344.00
+TXN-7176,2026-07-30 18:50,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,CU-97934,Sara Ezzat,01203680610,Card,SKU-1011,Amaryl 2mg 30 Tabs,Diabetes,84.00,1,84.00
+TXN-7176,2026-07-30 18:50,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,CU-97934,Sara Ezzat,01203680610,Card,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,1,66.00
+TXN-7177,2026-07-31 20:20,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-37576,Khaled Hegazy,01044190422,Card,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,1,598.00
+TXN-7180,2026-07-31 11:59,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-89631,Heba Badawy,+20 11 9652 3637,Cash,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7180,2026-07-31 11:59,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-89631,Heba Badawy,01196523637,Cash,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,455.00,2,910.00
+TXN-7182,2026-07-31 20:46,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,,,,Cash,SKU-1009,Aspocid 75mg 30 Tabs,Cardiovascular,18.00,1,18.00
+TXN-7182,2026-07-31 20:46,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,,,,Cash,SKU-1013,Accu-Chek Test Strips 50,Diabetes,540.00,1,540.00
+TXN-7182,2026-07-31 20:46,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,,,,Cash,SKU-1022,Nexium 40mg 14 Tabs,Digestive Health,248.00,1,248.00
+TXN-7184,2026-08-01 11:17,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-35481,Salma Kamel,01580124300,Cash,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,1,66.00
+TXN-7184,2026-08-01 11:17,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-35481,Salma Kamel,01580124300,Cash,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,1,86.00
+TXN-7184,2026-08-01 11:17,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-35481,Salma Kamel,01580124300,Cash,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,312.00,1,312.00
+TXN-7184,2026-08-01 11:17,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-35481,Salma Kamel,01580124300,Cash,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,2,316.00
+TXN-7187,2026-08-01 11:56,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,,,,Cash,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,610.00,1,610.00
+TXN-7189,2026-08-02 13:43,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,,,,Cash,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,1,66.00
+TXN-7192,2026-08-02 09:55,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-86297,Mostafa Shalaby,01536019223,Card,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,1,86.00
+TXN-7192,2026-08-02 09:55,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-86297,Mostafa Shalaby,01536019223,Card,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,1,236.00
+TXN-7192,2026-08-02 09:55,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-86297,Mostafa Shalaby,01536019223,Card,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,1,52.00
+TXN-7192,2026-08-02 09:55,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-86297,Mostafa Shalaby,01536019223,Card,SKU-1025,Bepanthen Cream 30g,Skin Care,142.00,1,142.00
+TXN-7194,2026-08-03 11:48,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,,,,Card,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,2,690.00
+TXN-7195,2026-08-03 18:20,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-59319,Laila Hassan,01110057672,Cash,SKU-1027,La Roche-Posay Anthelios SPF50,Skin Care,1120.00,1,1120.00
+TXN-7195,2026-08-03 18:20,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-59319,Laila Hassan,01110057672,Cash,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,1,345.00
+TXN-7198,2026-08-03 21:33,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-63105,Laila Lotfy,01546301029,Cash,SKU-1012,Lantus SoloStar Pen,Diabetes,925.00,1,925.00
+TXN-7198,2026-08-03 21:33,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-63105,Laila Lotfy,01546301029,Cash,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,2,172.00
+TXN-7199,2026-08-04 20:51,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-30091,Hana Naguib,01240660460,InstaPay,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7199,2026-08-04 20:51,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-30091,Hana Naguib,+20 12 4066 0460,InstaPay,SKU-1009,Aspocid 75mg 30 Tabs,Cardiovascular,18.00,3,54.00
+TXN-7199,2026-08-04 20:51,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-30091,Hana Naguib,+20 12 4066 0460,InstaPay,SKU-1009,Aspocid 75mg 30 Tabs,Cardiovascular,18.00,3,54.00
+TXN-7199,2026-08-04 20:51,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-30091,Hana Naguib,01240660460,InstaPay,SKU-1011,Amaryl 2mg 30 Tabs,Diabetes,84.00,1,84.00
+TXN-7201,2026-08-04 16:53,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-18160,Hassan Mansour,01249855208,Cash,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,455.00,1,455.00
+TXN-7201,2026-08-04 16:53,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-18160,Hassan Mansour,01249855208,Cash,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,3,198.00
+TXN-7201,2026-08-04 16:53,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-18160,Hassan Mansour,01249855208,Cash,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,1,236.00
+TXN-7202,2026-08-04 15:34,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-45142,Omar Naguib,01594519362,Cash,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,2,1196.00
+TXN-7205,2026-08-04 18:52,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-24862,Mostafa Ragab,+20 12 9314 4334,Cash,SKU-1027,La Roche-Posay Anthelios SPF50,Skin Care,1120.00,1,1120.00
+TXN-7208,2026-08-05 13:03,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-61479,Hana Shalaby,01209771701,InstaPay,SKU-1009,Aspocid 75mg 30 Tabs,Cardiovascular,18.00,1,18.00
+TXN-7208,2026-08-05 13:03,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-61479,Hana Shalaby,01209771701,InstaPay,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,1,236.00
+TXN-7208,2026-08-05 13:03,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-61479,Hana Shalaby,01209771701,InstaPay,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,2,82.00
+TXN-7209,2026-08-05 09:37,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-21372,Aya Hassan,01268605733,Cash,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,1,52.00
+TXN-7211,2026-08-06 16:33,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,,,,Cash,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,3,354.00
+TXN-7211,2026-08-06 16:33,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,,,,Cash,SKU-1010,Glucophage 1000mg 30 Tabs,Diabetes,68.00,2,136.00
+TXN-7211,2026-08-06 16:33,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,,,,Cash,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,1,86.00
+TXN-7212,2026-08-06 10:34,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-49420,Mona Soliman,01032838405,Card,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,1,92.00
+TXN-7212,2026-08-06 10:34,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-49420,Mona Soliman,+20 10 3283 8405,Card,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,2,1196.00
+TXN-7212,2026-08-06 10:34,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-49420,Mona Soliman,01032838405,Card,SKU-1024,Gaviscon Liquid 200ml,Digestive Health,132.00,1,132.00
+TXN-7212,2026-08-06 10:34,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-49420,Mona Soliman,01032838405,Card,SKU-1004,Augmentin 1g 14 Tabs,Antibiotics,172.00,1,172.00
+TXN-7214,2026-08-06 10:50,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-97249,Yasmin Fawzy,01004722480,InstaPay,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,1,46.00
+TXN-7214,2026-08-06 10:50,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-97249,Yasmin Fawzy,01004722480,InstaPay,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,2,690.00
+TXN-7216,2026-08-07 20:05,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-62756,Omar Ezzat,01563218552,Cash,SKU-1009,Aspocid 75mg 30 Tabs,Cardiovascular,18.00,2,36.00
+TXN-7216,2026-08-07 20:05,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-62756,Omar Ezzat,+20 15 6321 8552,Cash,SKU-1012,Lantus SoloStar Pen,Diabetes,925.00,1,925.00
+TXN-7218,2026-08-07 15:36,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-62756,Omar Ezzat,01563218552,Cash,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,1,41.00
+TXN-7221,2026-08-07 14:15,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-18160,Hassan Mansour,01249855208,Cash,SKU-1012,Lantus SoloStar Pen,Diabetes,925.00,1,925.00
+TXN-7221,2026-08-07 14:15,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-18160,Hassan Mansour,01249855208,Cash,SKU-1022,Nexium 40mg 14 Tabs,Digestive Health,248.00,2,496.00
+TXN-7221,2026-08-07 14:15,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-18160,Hassan Mansour,01249855208,Cash,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,1,41.00
+TXN-7223,2026-08-07 10:19,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-57081,Omar Fawzy,01554506775,Cash,SKU-1027,La Roche-Posay Anthelios SPF50,Skin Care,1120.00,1,1120.00
+TXN-7223,2026-08-07 10:19,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-57081,Omar Fawzy,01554506775,Cash,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,455.00,1,455.00
+TXN-7224,2026-08-08 18:00,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-21372,Aya Hassan,+20 12 6860 5733,Cash,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,610.00,1,610.00
+TXN-7224,2026-08-08 18:00,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-21372,Aya Hassan,01268605733,Cash,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,1,41.00
+TXN-7224,2026-08-08 18:00,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-21372,Aya Hassan,+20 12 6860 5733,Cash,SKU-1032,Sudocrem 125g,Baby Care,210.00,1,210.00
+TXN-7225,2026-08-08 16:21,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-71042,Hassan Shalaby,01245742175,Cash,SKU-1012,Lantus SoloStar Pen,Diabetes,925.00,1,925.00
+TXN-7226,2026-08-08 09:30,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-38170,Mohamed Ibrahim,01064827799,InstaPay,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,312.00,1,312.00
+TXN-7226,2026-08-08 09:30,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-38170,Mohamed Ibrahim,01064827799,InstaPay,SKU-1021,Ventolin Inhaler,Cold & Flu,94.60,1,94.60
+TXN-7226,2026-08-08 09:30,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-38170,Mohamed Ibrahim,01064827799,InstaPay,SKU-1001,Panadol Extra 24 Tabs,Pain Relief,72.00,1,72.00
+TXN-7229,2026-08-09 13:59,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-11720,Tarek Lotfy,+20 15 2427 5358,Cash,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,2,316.00
+TXN-7229,2026-08-09 13:59,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-11720,Tarek Lotfy,01524275358,Cash,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,2,172.00
+TXN-7229,2026-08-09 13:59,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-11720,Tarek Lotfy,01524275358,Cash,SKU-1001,Panadol Extra 24 Tabs,Pain Relief,72.00,1,72.00
+TXN-7229,2026-08-09 13:59,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-11720,Tarek Lotfy,01524275358,Cash,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,2,184.00
+TXN-7232,2026-08-09 12:03,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-76217,Mahmoud Hassan,01271790265,Cash,SKU-1009,Aspocid 75mg 30 Tabs,Cardiovascular,18.00,2,36.00
+TXN-7232,2026-08-09 12:03,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-76217,Mahmoud Hassan,01271790265,Cash,SKU-1001,Panadol Extra,Pain Relief,72.00,1,72.00
+TXN-7232,2026-08-09 12:03,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-76217,Mahmoud Hassan,01271790265,Cash,SKU-1032,Sudocrem 125g,Baby Care,210.00,1,210.00
+TXN-7232,2026-08-09 12:03,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-76217,Mahmoud Hassan,+20 12 7179 0265,Cash,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,1,92.00
+TXN-7234,2026-08-09 19:09,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-51208,Mahmoud Fawzy,01500398039,Card,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,1,345.00
+TXN-7234,2026-08-09 19:09,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-51208,Mahmoud Fawzy,+20 15 0039 8039,Card,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,610.00,1,610.00
+TXN-7235,2026-08-09 15:53,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-62399,Ali Farouk,+20 10 9009 2637,Cash,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7235,2026-08-09 15:53,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-62399,Ali Farouk,01090092637,Cash,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,3,156.00
+TXN-7235,2026-08-09 15:53,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-62399,Ali Farouk,01090092637,Cash,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,1,118.00
+TXN-7236,2026-08-10 14:15,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohammed Saber,CU-68470,Youssef Nasser,01238779114,Cash,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7237,2026-08-10 10:14,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-38313,Aya Farouk,01183546354,InstaPay,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,1,158.00
+TXN-7240,2026-08-10 13:24,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,312.00,3,936.00
+TXN-7242,2026-08-11 16:11,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-63105,Laila Lotfy,01546301029,Card,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,2,184.00
+TXN-7242,2026-08-11 16:11,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-63105,Laila Lotfy,01546301029,Card,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,1,41.00
+TXN-7245,2026-08-11 11:18,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-84944,Mostafa Hassan,01196741361,Cash,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,455.00,1,455.00
+TXN-7246,2026-08-11 09:49,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-87082,Dina Lotfy,01515796116,Cash,SKU-1025,Bepanthen Cream 30g,Skin Care,142.00,1,142.00
+TXN-7249,2026-08-11 17:06,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,,,,Cash,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,610.00,2,1220.00
+TXN-7249,2026-08-11 17:06,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,,,,Cash,SKU-1023,Antinal 24 Caps,Digestive Health,38.00,2,76.00
+TXN-7249,2026-08-11 17:06,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,,,,Cash,SKU-1029,Pampers 4 Maxi 52,Baby Care,455.00,1,455.00
+TXN-7250,2026-08-12 18:30,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-51675,Youssef Mahmoud,01073908334,Card,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,1,52.00
+TXN-7250,2026-08-12 18:30,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-51675,Youssef Mahmoud,01073908334,Card,SKU-1006,Ciprofar 500mg 10 Tabs,Antibiotics,64.00,4,256.00
+TXN-7250,2026-08-12 18:30,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-51675,Youssef Mahmoud,01073908334,Card,SKU-1028,Eucerin Urea Lotion 250ml,Skin Care,705.00,1,705.00
+TXN-7253,2026-08-12 18:38,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-47679,Hassan Naguib,01097727125,Cash,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,2,236.00
+TXN-7254,2026-08-12 14:10,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-97249,Yasmin Fawzy,01004722480,Cash,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7256,2026-08-13 21:33,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-11720,Tarek Lotfy,+20 15 2427 5358,Cash,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,1,158.00
+TXN-7256,2026-08-13 21:33,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-11720,Tarek Lotfy,01524275358,Cash,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,2,1310.00
+TXN-7259,2026-08-13 21:25,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-57263,Mariam Ezzat,01193089801,Cash,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,3,354.00
+TXN-7260,2026-08-13 17:45,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,,,,Cash,SKU-1009,Aspocid 75mg 30 Tabs,Cardiovascular,18.00,1,18.00
+TXN-7260,2026-08-13 17:45,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,,,,Cash,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,2,690.00
+TXN-7260,2026-08-13 17:45,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,,,,Cash,SKU-1001,Panadol Extra 24 Tabs,Pain Relief,72.00,1,72.00
+TXN-7260,2026-08-13 17:45,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,,,,Cash,SKU-1010,Glucophage 1000,Diabetes,68.00,1,68.00
+TXN-7262,2026-08-14 11:50,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-52836,Amr Fawzy,01271177551,Card,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,1,46.00
+TXN-7262,2026-08-14 11:50,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohammed Saber,CU-52836,Amr Fawzy,01271177551,Card,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,1,92.00
+TXN-7262,2026-08-14 11:50,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-52836,Amr Fawzy,01271177551,Card,SKU-1006,Ciprofar 500mg 10 Tabs,Antibiotics,64.00,2,128.00
+TXN-7265,2026-08-14 11:17,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,,,,InstaPay,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,610.00,2,1270.00
+TXN-7265,2026-08-14 11:17,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,,,,InstaPay,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,3,354.00
+TXN-7266,2026-08-14 16:14,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-66843,Tarek Gaber,01221963562,Cash,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,1,92.00
+TXN-7266,2026-08-14 16:14,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-66843,Tarek Gaber,01221963562,Cash,SKU-1012,Lantus SoloStar Pen,Diabetes,925.00,1,925.00
+TXN-7268,2026-08-15 17:02,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-47679,Hassan Naguib,01097727125,Cash,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,1,598.00
+TXN-7268,2026-08-15 17:02,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-47679,Hassan Naguib,01097727125,Cash,SKU-1011,Amaryl 2mg 30 Tabs,Diabetes,84.00,1,84.00
+TXN-7268,2026-08-15 17:02,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-47679,Hassan Naguib,01097727125,Cash,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,655.00,1,655.00
+TXN-7271,2026-08-15 15:14,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,,,,InstaPay,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,1,46.00
+TXN-7271,2026-08-15 15:14,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,,,,InstaPay,SKU-1004,Augmentin 1g 14 Tabs,Antibiotics,188.00,2,376.00
+TXN-7271,2026-08-15 15:14,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,,,,InstaPay,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,1,236.00
+TXN-7272,2026-08-16 19:28,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-24862,Mostafa Ragab,01293144334,Cash,SKU-1025,Bepanthen Cream 30g,Skin Care,142.00,1,142.00
+TXN-7274,2026-08-16 19:33,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-35481,Salma Kamel,01580124300,InstaPay,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,655.00,3,1965.00
+TXN-7274,2026-08-16 19:33,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-35481,Salma Kamel,01580124300,InstaPay,SKU-1010,Glucophage 1000mg 30 Tabs,Diabetes,68.00,2,136.00
+TXN-7275,2026-08-16 19:23,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,,,,Cash,SKU-1001,Panadol Extra 24 Tabs,Pain Relief,72.00,4,288.00
+TXN-7277,2026-08-17 19:23,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-57263,Mariam Ezzat,01193089801,Cash,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,2,1310.00
+TXN-7277,2026-08-17 19:23,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-57263,Mariam Ezzat,01193089801,Cash,SKU-1009,Aspocid 75mg 30 Tabs,Cardiovascular,18.00,1,18.00
+TXN-7277,2026-08-17 19:23,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-57263,Mariam Ezzat,01193089801,Cash,SKU-1022,Nexium 40mg 14 Tabs,Digestive Health,248.00,1,248.00
+TXN-7279,2026-08-17 21:37,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-11720,Tarek Lotfy,01524275358,Cash,SKU-1013,Accu-Chek Test Strips 50,Diabetes,540.00,3,1620.00
+TXN-7279,2026-08-17 21:37,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-11720,Tarek Lotfy,01524275358,Cash,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,655.00,1,655.00
+TXN-7282,2026-08-17 15:12,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,,,,Cash,SKU-1012,Lantus SoloStar Pen,Diabetes,990.00,1,990.00
+TXN-7282,2026-08-17 15:12,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,,,,Cash,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,2,236.00
+TXN-7285,2026-08-18 15:03,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-35481,Salma Kamel,+20 15 8012 4300,Card,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,1,52.00
+TXN-7286,2026-08-18 14:10,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-69006,Youssef Nasser,+20 11 7812 5862,Card,SKU-1025,Bepanthen Cream 30g,Skin Care,142.00,1,142.00
+TXN-7286,2026-08-18 14:10,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-69006,Youssef Nasser,01178125862,Card,SKU-1016,Vitamin D3 Drops 10ml,Vitamins & Supplements,118.00,1,118.00
+TXN-7286,2026-08-18 14:10,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-69006,Youssef Nasser,+20 11 7812 5862,Card,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,1,118.00
+TXN-7288,2026-08-18 14:21,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-62756,Omar Ezzat,01563218552,InstaPay,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7288,2026-08-18 14:21,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-62756,Omar Ezzat,01563218552,InstaPay,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,2,92.00
+TXN-7288,2026-08-18 14:21,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-62756,Omar Ezzat,01563218552,InstaPay,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,655.00,2,1310.00
+TXN-7288,2026-08-18 14:21,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-62756,Omar Ezzat,+20 15 6321 8552,InstaPay,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,1,52.00
+TXN-7291,2026-08-18 16:58,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-76217,Mahmoud Hassan,01271790265,Card,SKU-1009,Aspocid 75mg 30 Tabs,Cardiovascular,18.00,3,54.00
+TXN-7294,2026-08-19 19:40,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,InstaPay,SKU-1027,La Roche-Posay Anthelios SPF50,Skin Care,1120.00,1,1120.00
+TXN-7294,2026-08-19 19:40,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,InstaPay,SKU-1023,Antinal 24 Caps,Digestive Health,38.00,1,38.00
+TXN-7294,2026-08-19 19:40,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,InstaPay,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,655.00,1,655.00
+TXN-7294,2026-08-19 19:40,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,InstaPay,SKU-1028,Eucerin Urea Lotion 250ml,Skin Care,705.00,1,705.00
+TXN-7296,2026-08-19 09:13,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-52813,Yasmin Kamel,01528097932,Card,SKU-1010,Glucophage 1000mg 30 Tabs,Diabetes,68.00,1,68.00
+TXN-7298,2026-08-19 13:31,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-67871,Aya Ibrahim,01228558338,Cash,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,489.00,4,1956.00
+TXN-7300,2026-08-20 21:56,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-22822,Rania Soliman,+20 12 6633 5522,Card,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,655.00,2,1310.00
+TXN-7300,2026-08-20 21:56,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-22822,Rania Soliman,01266335522,Card,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,1,345.00
+TXN-7300,2026-08-20 21:56,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-22822,Rania Soliman,01266335522,Card,SKU-1028,Eucerin Urea Lotion 250ml,Skin Care,705.00,1,705.00
+TXN-7301,2026-08-20 13:37,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,,,,Cash,SKU-1024,Gaviscon Liquid 200ml,Digestive Health,132.00,3,396.00
+TXN-7301,2026-08-20 13:37,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,,,,Cash,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,2,236.00
+TXN-7301,2026-08-20 13:37,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,,,,Cash,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,2,472.00
+TXN-7301,2026-08-20 13:37,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0102,Mohamed Saber,,,,Cash,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,2,366.00
+TXN-7302,2026-08-20 19:19,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-71706,Nour Ezzat,01188464438,Cash,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,1,46.00
+TXN-7302,2026-08-20 19:19,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-71706,Nour Ezzat,01188464438,Cash,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,1,66.00
+TXN-7304,2026-08-20 17:31,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-22091,Salma Badawy,01225390429,InstaPay,SKU-1016,Vitamin D3 Drops 10ml,Vitamins & Supplements,118.00,1,118.00
+TXN-7305,2026-08-21 20:26,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-38181,Karim Abdelaziz,+20 10 2749 8320,Cash,SKU-1024,Gaviscon Liquid 200ml,Digestive Health,132.00,1,132.00
+TXN-7305,2026-08-21 20:26,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-38181,Karim Abdelaziz,01027498320,Cash,SKU-1013,Accu-Chek Test Strips 50,Diabetes,54.00,1,54.00
+TXN-7308,2026-08-21 09:36,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,CU-98006,Mahmoud Abdelaziz,01254354397,Card,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7308,2026-08-21 09:36,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,CU-98006,Mahmoud Abdelaziz,01254354397,Card,SKU-1009,Aspocid 75mg 30 Tabs,Cardiovascular,18.00,1,18.00
+TXN-7310,2026-08-22 12:24,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-99104,Ali Lotfy,01579723167,Cash,SKU-1032,Sudocrem 125g,Baby Care,210.00,1,210.00
+TXN-7310,2026-08-22 12:24,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-99104,Ali Lotfy,01579723167,Cash,SKU-1012,Lantus SoloStar Pen,Diabetes,990.00,1,990.00
+TXN-7312,2026-08-22 19:01,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-37576,Khaled Hegazy,01044190422,Cash,SKU-1016,Vitamin D3 Drops 10ml,Vitamins & Supplements,118.00,1,118.00
+TXN-7312,2026-08-22 19:01,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-37576,Khaled Hegazy,01044190422,Cash,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,3,1965.00
+TXN-7313,2026-08-22 18:51,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,,,,Cash,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,489.00,2,978.00
+TXN-7313,2026-08-22 18:51,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,,,,Cash,SKU-1006,Ciprofar 500mg 10 Tabs,Antibiotics,6.40,1,6.40
+TXN-7313,2026-08-22 18:51,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,,,,Cash,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,1,345.00
+TXN-7314,2026-08-22 15:13,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-91770,Mona Ezzat,01190721870,Cash,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7314,2026-08-22 15:13,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-91770,Mona Ezzat,01190721870,Cash,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7314,2026-08-22 15:13,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-91770,Mona Ezzat,01190721870,Cash,SKU-1027,La Roche-Posay Anthelios SPF50,Skin Care,1120.00,1,1120.00
+TXN-7314,2026-08-22 15:13,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-91770,Mona Ezzat,01190721870,Cash,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,1,41.00
+TXN-7317,2026-08-23 09:05,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-45142,Omar Naguib,01594519362,Card,SKU-1004,Augmentin 1g 14 Tabs,Antibiotics,188.00,1,188.00
+TXN-7320,2026-08-23 15:01,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-96330,Yasmin Mansour,01205956354,Cash,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,1,41.00
+TXN-7320,2026-08-23 15:01,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-96330,Yasmin Mansour,01205956354,Cash,SKU-1004,Augmentin 1g 14 Tabs,Antibiotics,188.00,1,188.00
+TXN-7320,2026-08-23 15:01,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-96330,Yasmin Mansour,+20 12 0595 6354,Cash,SKU-1024,Gaviscon Liquid 200ml,Digestive Health,132.00,3,396.00
+TXN-7320,2026-08-23 15:01,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-96330,Yasmin Mansour,01205956354,Cash,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,1,158.00
+TXN-7322,2026-08-23 16:01,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohammed Saber,CU-23230,Mariam Shalaby,01551415367,Cash,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,655.00,2,1310.00
+TXN-7325,2026-08-24 16:02,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-22091,Salma Badawy,01225390429,Cash,SKU-1032,Sudocrem 125g,Baby Care,210.00,1,210.00
+TXN-7325,2026-08-24 16:02,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-22091,Salma Badawy,01225390429,Cash,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,2,132.00
+TXN-7326,2026-08-24 18:51,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,,,,Cash,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,2,104.00
+TXN-7326,2026-08-24 18:51,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,,,,Cash,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,23.60,1,23.60
+TXN-7326,2026-08-24 18:51,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,,,,Cash,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7328,2026-08-24 21:19,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-67871,Aya Ibrahim,01228558338,Cash,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,1,118.00
+TXN-7328,2026-08-24 21:19,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-67871,Aya Ibrahim,01228558338,Cash,SKU-1012,Lantus SoloStar Pen,Diabetes,990.00,1,990.00
+TXN-7329,2026-08-24 10:24,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-43611,Mariam Nasser,01197823480,Card,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,3,708.00
+TXN-7332,2026-08-25 19:54,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,,,,InstaPay,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,489.00,2,978.00
+TXN-7333,2026-08-25 19:36,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-45142,Omar Naguib,01594519362,Card,SKU-1028,Eucerin Urea Lotion 250ml,Skin Care,705.00,1,705.00
+TXN-7333,2026-08-25 19:36,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-45142,Omar Naguib,01594519362,Card,SKU-1022,Nexium 40mg 14 Tabs,Digestive Health,248.00,2,496.00
+TXN-7335,2026-08-25 10:41,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-10109,Mona Sherif,01568023904,Cash,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,1,86.00
+TXN-7335,2026-08-25 10:41,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-10109,Mona Sherif,01568023904,Cash,SKU-1024,Gaviscon Liquid 200ml,Digestive Health,132.00,3,396.00
+TXN-7336,2026-08-26 14:27,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-51555,Yasmin Naguib,01034107685,Cash,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,336.00,1,336.00
+TXN-7338,2026-08-26 19:09,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-38181,Karim Abdelaziz,01027498320,Card,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,1,158.00
+TXN-7340,2026-08-26 20:02,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-97934,Sara Ezzat,+20 12 0368 0610,Card,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,1,598.00
+TXN-7340,2026-08-26 20:02,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-97934,Sara Ezzat,01203680610,Card,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,1,41.00
+TXN-7340,2026-08-26 20:02,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-97934,Sara Ezzat,01203680610,Card,SKU-1032,Sudocrem 125g,Baby Care,210.00,1,210.00
+TXN-7343,2026-08-27 11:25,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,,,,InstaPay,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,1,41.00
+TXN-7345,2026-08-27 13:16,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-27671,Omar Ragab,01571048191,InstaPay,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,336.00,2,672.00
+TXN-7345,2026-08-27 13:16,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-27671,Omar Ragab,01571048191,InstaPay,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,2,82.00
+TXN-7346,2026-08-27 17:10,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-62399,Ali Farouk,01090092637,Cash,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,4,208.00
+TXN-7346,2026-08-27 17:10,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-62399,Ali Farouk,+20 10 9009 2637,Cash,SKU-1011,Amaryl 2mg 30 Tabs,Diabetes,84.00,2,168.00
+TXN-7348,2026-08-28 11:42,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,,,,Card,SKU-1013,Accu-Chek Test Strips 50,Diabetes,540.00,2,1080.00
+TXN-7351,2026-08-28 17:58,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,CU-15527,Omar Ragab,01598420939,Cash,SKU-1024,Gaviscon Liquid 200ml,Digestive Health,132.00,2,264.00
+TXN-7353,2026-08-28 14:46,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Cash,SKU-1009,Aspocid 75mg 30 Tabs,Cardiovascular,18.00,1,18.00
+TXN-7354,2026-08-29 18:18,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-97249,Yasmin Fawzy,01004722480,Cash,SKU-1032,Sudocrem 125g,Baby Care,210.00,4,840.00
+TXN-7354,2026-08-29 18:18,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-97249,Yasmin Fawzy,+20 10 0472 2480,Cash,SKU-1012,Lantus SoloStar Pen,Diabetes,990.00,1,990.00
+TXN-7354,2026-08-29 18:18,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-97249,Yasmin Fawzy,01004722480,Cash,SKU-1029,Pampers 4 Maxi 52,Baby Care,489.00,2,978.00
+TXN-7354,2026-08-29 18:18,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-97249,Yasmin Fawzy,01004722480,Cash,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7357,2026-08-29 12:43,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-96761,Mariam Mansour,01535321727,Cash,SKU-1013,Accu-Chek Test Strips 50,Diabetes,540.00,1,540.00
+TXN-7358,2026-08-29 10:59,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-51208,Mahmoud Fawzy,01500398039,Cash,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,2,184.00
+TXN-7359,2026-08-30 16:16,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-72927,Rania Lotfy,01192978345,Card,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,2,1310.00
+TXN-7359,2026-08-30 16:16,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-72927,Rania Lotfy,01192978345,Card,SKU-1013,Accu-Chek Test Strips 50,Diabetes,540.00,1,540.00
+TXN-7359,2026-08-30 16:16,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-72927,Rania Lotfy,01192978345,Card,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,1,92.00
+TXN-7359,2026-08-30 16:16,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-72927,Rania Lotfy,+20 11 9297 8345,Card,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,1,52.00
+TXN-7361,2026-08-30 18:33,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-51675,Youssef Mahmoud,01073908334,Card,SKU-1028,Eucerin Urea Lotion 250ml,Skin Care,705.00,1,705.00
+TXN-7361,2026-08-30 18:33,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-51675,Youssef Mahmoud,+20 10 7390 8334,Card,SKU-1023,Antinal 24 Caps,Digestive Health,38.00,2,76.00
+TXN-7361,2026-08-30 18:33,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-51675,Youssef Mahmoud,01073908334,Card,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,3,156.00
+TXN-7362,2026-08-31 15:01,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-84944,Mostafa Hassan,01196741361,Card,SKU-1028,Eucerin Urea Lotion 250ml,Skin Care,705.00,1,705.00
+TXN-7365,2026-08-31 19:32,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,,,,Card,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7365,2026-08-31 19:32,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,,,,Card,SKU-1013,Accu-Chek Test Strips 50,Diabetes,540.00,4,2160.00
+TXN-7367,2026-08-31 16:54,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-17530,Mahmoud Ezzat,01065685117,Card,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,2,92.00
+TXN-7367,2026-08-31 16:54,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-17530,Mahmoud Ezzat,+20 10 6568 5117,Card,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,1,236.00
+TXN-7369,2026-09-01 20:34,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,,,,Cash,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,3,123.00
+TXN-7371,2026-09-01 09:57,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-96727,Reem Nasser,01020751130,Cash,SKU-1012,Lantus SoloStar Pen,Diabetes,990.00,1,990.00
+TXN-7371,2026-09-01 09:57,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-96727,Reem Nasser,01020751130,Cash,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,2,104.00
+TXN-7373,2026-09-01 09:36,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-30538,Rania Ezzat,+20 15 3246 6561,Cash,SKU-1016,Vitamin D3 Drops 10ml,Vitamins & Supplements,118.00,1,118.00
+TXN-7376,2026-09-02 18:05,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-69006,Youssef Nasser,01178125862,Cash,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,1,66.00
+TXN-7376,2026-09-02 18:05,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-69006,Youssef Nasser,01178125862,Cash,SKU-1011,Amaryl 2mg 30 Tabs,Diabetes,84.00,1,84.00
+TXN-7378,2026-09-02 18:41,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-35890,Hana Naguib,01132043634,Cash,SKU-1016,Vitamin D3 Drops 10ml,Vitamins & Supplements,118.00,1,118.00
+TXN-7378,2026-09-02 18:41,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-35890,Hana Naguib,01132043634,Cash,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,489.00,4,1956.00
+TXN-7381,2026-09-02 16:57,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-26876,Reem Gaber,01586335778,Cash,SKU-1022,Nexium 40mg 14 Tabs,Digestive Health,248.00,1,248.00
+TXN-7381,2026-09-02 16:57,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-26876,Reem Gaber,+20 15 8633 5778,Cash,SKU-1027,La Roche-Posay Anthelios SPF50,Skin Care,1120.00,1,1120.00
+TXN-7381,2026-09-02 16:57,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-26876,Reem Gaber,01586335778,Cash,SKU-1023,Antinal 24 Caps,Digestive Health,38.00,3,114.00
+TXN-7381,2026-09-02 16:57,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-26876,Reem Gaber,01586335778,Cash,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,1,86.00
+TXN-7382,2026-09-03 13:12,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-22822,Rania Soliman,01266335522,InstaPay,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,2,1310.00
+TXN-7382,2026-09-03 13:12,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-22822,Rania Soliman,01266335522,InstaPay,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,3,1794.00
+TXN-7383,2026-09-03 20:37,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Cash,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,1,118.00
+TXN-7383,2026-09-03 20:37,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Cash,SKU-1028,Eucerin Urea Lotion 250ml,Skin Care,705.00,1,705.00
+TXN-7384,2026-09-04 16:01,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-58782,Ahmed Ezzat,01514953044,Cash,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,3,1794.00
+TXN-7384,2026-09-04 16:01,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-58782,Ahmed Ezzat,+20 15 1495 3044,Cash,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,3,708.00
+TXN-7384,2026-09-04 16:01,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-58782,Ahmed Ezzat,01514953044,Cash,SKU-1001,Panadol Extra 24 Tabs,Pain Relief,72.00,1,72.00
+TXN-7387,2026-09-04 21:18,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1012,Lantus SoloStar Pen,Diabetes,990.00,1,990.00
+TXN-7387,2026-09-04 21:18,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,489.00,1,489.00
+TXN-7387,2026-09-04 21:18,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,1,66.00
+TXN-7387,2026-09-04 21:18,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1013,Accu-Chek Test Strips 50,Diabetes,540.00,1,540.00
+TXN-7389,2026-09-04 21:12,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-38170,Mohamed Ibrahim,01064827799,Card,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,1,66.00
+TXN-7392,2026-09-04 14:25,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-23230,Mariam Shalaby,01551415367,Cash,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,336.00,2,672.00
+TXN-7395,2026-09-05 15:56,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-87082,Dina Lotfy,01515796116,Cash,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,2,690.00
+TXN-7398,2026-09-05 13:02,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-67871,Aya Ibrahim,01228558338,InstaPay,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,489.00,1,489.00
+TXN-7401,2026-09-05 12:19,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-79122,Tarek Gaber,01269989348,InstaPay,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,2,472.00
+TXN-7404,2026-09-06 17:55,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,,,,Cash,SKU-1032,Sudocrem 125g,Baby Care,210.00,1,210.00
+TXN-7406,2026-09-06 18:15,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-38181,Karim Abdelaziz,+20 10 2749 8320,Cash,SKU-1032,Sudocrem 125g,Baby Care,210.00,1,210.00
+TXN-7409,2026-09-06 11:45,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-24862,Mostafa Ragab,01293144334,InstaPay,SKU-1025,Bepanthen Cream 30g,Skin Care,142.00,2,284.00
+TXN-7409,2026-09-06 11:45,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-24862,Mostafa Ragab,01293144334,InstaPay,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7409,2026-09-06 11:45,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-24862,Mostafa Ragab,01293144334,InstaPay,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,336.00,1,336.00
+TXN-7410,2026-09-07 14:27,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-37599,Khaled Mansour,+20 10 8482 4080,InstaPay,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,3,708.00
+TXN-7411,2026-09-07 11:47,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,,,,Cash,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,1,66.00
+TXN-7411,2026-09-07 11:47,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,,,,Cash,SKU-1025,Bepanthen Cream 30g,Skin Care,142.00,2,284.00
+TXN-7412,2026-09-08 16:22,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-72559,Mariam Kamel,01003222680,Card,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,2,690.00
+TXN-7412,2026-09-08 16:22,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-72559,Mariam Kamel,+20 10 0322 2680,Card,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,2,236.00
+TXN-7414,2026-09-08 14:11,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-91770,Mona Ezzat,01190721870,Cash,SKU-1025,Bepanthen Cream 30g,Skin Care,142.00,1,142.00
+TXN-7415,2026-09-08 12:35,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,,,,Cash,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,1,598.00
+TXN-7415,2026-09-08 12:35,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,,,,Cash,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7416,2026-09-09 12:54,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohammed Saber,,,,Cash,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,1,598.00
+TXN-7416,2026-09-09 12:54,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0102,Mohamed Saber,,,,Cash,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,3,1035.00
+TXN-7418,2026-09-09 19:38,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-82649,Sara Farouk,01274908801,Cash,SKU-1025,Bepanthen Cream 30g,Skin Care,142.00,2,284.00
+TXN-7421,2026-09-09 10:53,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-37576,Khaled Hegazy,01044190422,Cash,SKU-1024,Gaviscon Liquid 200ml,Digestive Health,132.00,1,132.00
+TXN-7423,2026-09-09 11:53,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-91770,Mona Ezzat,01190721870,Cash,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7426,2026-09-10 10:38,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-62399,Ali Farouk,01090092637,InstaPay,SKU-1032,Sudocrem 125g,Baby Care,210.00,1,210.00
+TXN-7426,2026-09-10 10:38,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-62399,Ali Farouk,01090092637,InstaPay,SKU-1032,Sudocrem 125g,Baby Care,210.00,1,210.00
+TXN-7428,2026-09-10 20:15,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-30538,Rania Ezzat,01532466561,Cash,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7430,2026-09-10 11:13,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-86297,Mostafa Shalaby,01536019223,Cash,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,4,2620.00
+TXN-7430,2026-09-10 11:13,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-86297,Mostafa Shalaby,01536019223,Cash,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,1,158.00
+TXN-7432,2026-09-11 11:30,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1028,Eucerin Urea Lotion 250ml,Skin Care,705.00,1,705.00
+TXN-7432,2026-09-11 11:30,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1001,Panadol Extra 24 Tabs,Pain Relief,72.00,1,72.00
+TXN-7432,2026-09-11 11:30,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,1,92.00
+TXN-7432,2026-09-11 11:30,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,,,,Card,SKU-1004,Augmentin 1g 14 Tabs,Antibiotics,188.00,1,188.00
+TXN-7433,2026-09-11 18:40,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-37599,Khaled Mansour,01084824080,Cash,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,1,41.00
+TXN-7434,2026-09-11 15:16,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-74801,Reem Nasser,+20 12 0129 8255,Card,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,1,66.00
+TXN-7434,2026-09-11 15:16,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-74801,Reem Nasser,01201298255,Card,SKU-1027,La Roche-Posay Anthelios SPF50,Skin Care,1120.00,1,1120.00
+TXN-7434,2026-09-11 15:16,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-74801,Reem Nasser,+20 12 0129 8255,Card,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,489.00,1,489.00
+TXN-7437,2026-09-12 19:53,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-57263,Mariam Ezzat,01193089801,Cash,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,2,1196.00
+TXN-7438,2026-09-12 09:42,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-62399,Ali Farouk,+20 10 9009 2637,Cash,SKU-1023,Antinal 24 Caps,Digestive Health,38.00,3,114.00
+TXN-7438,2026-09-12 09:42,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-62399,Ali Farouk,01090092637,Cash,SKU-1010,Glucophage 1000,Diabetes,68.00,1,68.00
+TXN-7440,2026-09-12 16:43,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-23230,Mariam Shalaby,01551415367,Cash,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,489.00,1,469.00
+TXN-7441,2026-09-13 19:40,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-11720,Tarek Lotfy,01524275358,Cash,SKU-1025,Bepanthen Cream 30g,Skin Care,142.00,1,142.00
+TXN-7443,2026-09-13 12:17,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-67871,Aya Ibrahim,01228558338,Cash,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,655.00,2,1310.00
+TXN-7443,2026-09-13 12:17,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-67871,Aya Ibrahim,01228558338,Cash,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,1,66.00
+TXN-7446,2026-09-13 21:33,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-24862,Mostafa Ragab,01293144334,InstaPay,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,1,46.00
+TXN-7446,2026-09-13 21:33,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-24862,Mostafa Ragab,01293144334,InstaPay,SKU-1016,Vitamin D3 Drops 10ml,Vitamins & Supplements,118.00,1,118.00
+TXN-7447,2026-09-14 20:23,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-51395,Laila Fawzy,01034839126,Card,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,3,276.00
+TXN-7447,2026-09-14 20:23,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-51395,Laila Fawzy,01034839126,Card,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,2,472.00
+TXN-7448,2026-09-14 09:29,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-60599,Reem Fawzy,01234943910,Cash,SKU-1013,Accu-Chek Test Strips 50,Diabetes,540.00,1,540.00
+TXN-7451,2026-09-14 17:29,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-47679,Hassan Naguib,+20 10 9772 7125,Card,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,2,236.00
+TXN-7452,2026-09-15 10:29,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-28315,Ali Naguib,01152376464,Cash,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,2,472.00
+TXN-7454,2026-09-15 12:26,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-38313,Aya Farouk,01183546354,Card,SKU-1001,Panadol Extra 24 Tabs,Pain Relief,72.00,2,144.00
+TXN-7457,2026-09-15 18:55,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-41781,Reem Nasser,01245078896,Card,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,4,208.00
+TXN-7457,2026-09-15 18:55,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-41781,Reem Nasser,01245078896,Card,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,1,41.00
+TXN-7458,2026-09-16 20:53,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-72927,Rania Lotfy,01192978345,InstaPay,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,1,236.00
+TXN-7458,2026-09-16 20:53,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-72927,Rania Lotfy,01192978345,InstaPay,SKU-1022,Nexium 40mg 14 Tabs,Digestive Health,248.00,1,248.00
+TXN-7458,2026-09-16 20:53,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-72927,Rania Lotfy,+20 11 9297 8345,InstaPay,SKU-1010,Glucophage 1000,Diabetes,68.00,1,68.00
+TXN-7458,2026-09-16 20:53,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-72927,Rania Lotfy,01192978345,InstaPay,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7461,2026-09-16 14:16,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-18160,Hassan Mansour,01249855208,Card,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,1,236.00
+TXN-7461,2026-09-16 14:16,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-18160,Hassan Mansour,01249855208,Card,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,1,46.00
+TXN-7461,2026-09-16 14:16,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-18160,Hassan Mansour,+20 12 4985 5208,Card,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,2,132.00
+TXN-7461,2026-09-16 14:16,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-18160,Hassan Mansour,01249855208,Card,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7462,2026-09-16 12:29,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-58313,Mahmoud Ezzat,01009687852,Cash,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,1,41.00
+TXN-7463,2026-09-16 17:19,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-68470,Youssef Nasser,01238779114,Card,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7463,2026-09-16 17:19,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-68470,Youssef Nasser,01238779114,Card,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,34.50,2,69.00
+TXN-7463,2026-09-16 17:19,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-68470,Youssef Nasser,+20 12 3877 9114,Card,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7465,2026-09-17 15:19,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-84944,Mostafa Hassan,01196741361,Cash,SKU-1032,Sudocrem 125g,Baby Care,210.00,2,420.00
+TXN-7465,2026-09-17 15:19,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-84944,Mostafa Hassan,01196741361,Cash,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,4,184.00
+TXN-7466,2026-09-17 13:07,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-84944,Mostafa Hassan,01196741361,InstaPay,SKU-1028,Eucerin Urea Lotion 250ml,Skin Care,705.00,1,705.00
+TXN-7466,2026-09-17 13:07,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-84944,Mostafa Hassan,01196741361,InstaPay,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,2,690.00
+TXN-7466,2026-09-17 13:07,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-84944,Mostafa Hassan,01196741361,InstaPay,SKU-1009,Aspocid 75mg 30 Tabs,Cardiovascular,18.00,2,36.00
+TXN-7469,2026-09-17 12:37,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-18160,Hassan Mansour,01249855208,Cash,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,336.00,1,336.00
+TXN-7469,2026-09-17 12:37,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-18160,Hassan Mansour,01249855208,Cash,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,1,86.00
+TXN-7469,2026-09-17 12:37,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-18160,Hassan Mansour,+20 12 4985 5208,Cash,SKU-1022,Nexium 40mg 14 Tabs,Digestive Health,248.00,1,248.00
+TXN-7470,2026-09-18 14:32,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-48235,Omar El-Sayed,01004345976,Cash,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,1,92.00
+TXN-7470,2026-09-18 14:32,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-48235,Omar El-Sayed,01004345976,Cash,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,1,345.00
+TXN-7470,2026-09-18 14:32,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-48235,Omar El-Sayed,+20 10 0434 5976,Cash,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7471,2026-09-18 15:40,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,,,,Cash,SKU-1001,Panadol Extra 24 Tabs,Pain Relief,72.00,2,144.00
+TXN-7473,2026-09-19 12:29,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-11720,Tarek Lotfy,01524275358,Card,SKU-1011,Amaryl 2mg 30 Tabs,Diabetes,84.00,2,168.00
+TXN-7473,2026-09-19 12:29,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-11720,Tarek Lotfy,01524275358,Card,SKU-1006,Ciprofar 500mg 10 Tabs,Antibiotics,64.00,1,64.00
+TXN-7474,2026-09-19 15:16,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-92213,Nour Kamel,01283454008,Cash,SKU-1010,Glucophage 1000mg 30 Tabs,Diabetes,68.00,1,68.00
+TXN-7477,2026-09-19 17:24,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohammed Saber,CU-37599,Khaled Mansour,+20 10 8482 4080,Card,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,1,118.00
+TXN-7477,2026-09-19 17:24,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-37599,Khaled Mansour,01084824080,Card,SKU-1012,Lantus SoloStar Pen,Diabetes,990.00,1,990.00
+TXN-7477,2026-09-19 17:24,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohammed Saber,CU-37599,Khaled Mansour,01084824080,Card,SKU-1024,Gaviscon Liquid 200ml,Digestive Health,132.00,1,132.00
+TXN-7477,2026-09-19 17:24,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,CU-37599,Khaled Mansour,01084824080,Card,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,1,52.00
+TXN-7480,2026-09-19 12:18,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-55196,Mostafa Ezzat,01576777825,InstaPay,SKU-1007,Concor 5 mg,Cardiovascular,92.00,1,92.00
+TXN-7481,2026-09-20 17:59,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-58782,Ahmed Ezzat,01514953044,Cash,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,2,82.00
+TXN-7481,2026-09-20 17:59,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-58782,Ahmed Ezzat,+20 15 1495 3044,Cash,SKU-1004,Augmentin 1g 14 Tabs,Antibiotics,188.00,1,188.00
+TXN-7484,2026-09-20 10:23,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-18160,Hassan Mansour,01249855208,Cash,SKU-1013,Accu-Chek Test Strips 50,Diabetes,540.00,1,540.00
+TXN-7485,2026-09-20 13:12,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-51675,Youssef Mahmoud,01073908334,Cash,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,3,474.00
+TXN-7485,2026-09-20 13:12,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-51675,Youssef Mahmoud,01073908334,Cash,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,655.00,1,655.00
+TXN-7488,2026-09-20 21:31,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,,,,Cash,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,1,46.00
+TXN-7488,2026-09-20 21:31,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,,,,Cash,SKU-1029,Pampers 4 Maxi 52,Baby Care,489.00,1,489.00
+TXN-7490,2026-09-21 18:28,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,,,,Card,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,1,236.00
+TXN-7490,2026-09-21 18:28,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,,,,Card,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,2,236.00
+TXN-7490,2026-09-21 18:28,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0102,Mohamed Saber,,,,Card,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,4,264.00
+TXN-7493,2026-09-21 09:33,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-35154,Amr Abdelaziz,01514893701,Card,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,1,598.00
+TXN-7493,2026-09-21 09:33,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0112,Omar Khalil,CU-35154,Amr Abdelaziz,01514893701,Card,SKU-1011,Amaryl 2mg 30 Tabs,Diabetes,84.00,2,168.00
+TXN-7495,2026-09-21 10:09,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-24862,Mostafa Ragab,01293144334,InstaPay,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,1,158.00
+TXN-7495,2026-09-21 10:09,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-24862,Mostafa Ragab,01293144334,InstaPay,SKU-1001,Panadol Extra 24 Tabs,Pain Relief,72.00,4,288.00
+TXN-7495,2026-09-21 10:09,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-24862,Mostafa Ragab,01293144334,InstaPay,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,336.00,3,1008.00
+TXN-7495,2026-09-21 10:09,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-24862,Mostafa Ragab,01293144334,InstaPay,SKU-1028,Eucerin Urea Lotion 250ml,Skin Care,705.00,1,705.00
+TXN-7496,2026-09-22 10:19,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-70451,Mariam Kamel,+20 10 0835 5140,Card,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,2,690.00
+TXN-7496,2026-09-22 10:19,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-70451,Mariam Kamel,01008355140,Card,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,655.00,1,655.00
+TXN-7496,2026-09-22 10:19,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0108,Ahmed Zaki,CU-70451,Mariam Kamel,+20 10 0835 5140,Card,SKU-1001,Panadol Extra 24 Tabs,Pain Relief,72.00,3,216.00
+TXN-7497,2026-09-22 18:08,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-27671,Omar Ragab,01571048191,InstaPay,SKU-1032,Sudocrem 125g,Baby Care,210.00,1,210.00
+TXN-7498,2026-09-22 10:27,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-72559,Mariam Kamel,01003222680,Card,SKU-1010,Glucophage 1000mg 30 Tabs,Diabetes,68.00,2,136.00
+TXN-7501,2026-09-23 11:40,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,,,,Cash,SKU-1024,Gaviscon Liquid 200ml,Digestive Health,132.00,1,132.00
+TXN-7504,2026-09-23 12:20,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,,,,Cash,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,3,162.00
+TXN-7504,2026-09-23 12:20,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,,,,Cash,SKU-1011,Amaryl 2mg 30 Tabs,Diabetes,84.00,1,84.00
+TXN-7504,2026-09-23 12:20,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,,,,Cash,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,1,158.00
+TXN-7506,2026-09-23 14:08,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-17530,Mahmoud Ezzat,01065685117,Cash,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,336.00,1,336.00
+TXN-7506,2026-09-23 14:08,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-17530,Mahmoud Ezzat,01065685117,Cash,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,1,345.00
+TXN-7506,2026-09-23 14:08,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-17530,Mahmoud Ezzat,01065685117,Cash,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,2,1196.00
+TXN-7509,2026-09-24 19:20,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-76217,Mahmoud Hassan,01271790265,Cash,SKU-1024,Gaviscon Liquid 200ml,Digestive Health,132.00,1,132.00
+TXN-7509,2026-09-24 19:20,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-76217,Mahmoud Hassan,01271790265,Cash,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,489.00,1,489.00
+TXN-7512,2026-09-24 21:19,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,CU-77180,Hana El-Sayed,01292057198,Cash,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,4,632.00
+TXN-7512,2026-09-24 21:19,BR-04,Dawaya Dokki,"40 Tahrir St, Dokki, Giza",PH-0107,Rana Shawky,CU-77180,Hana El-Sayed,+20 12 9205 7198,Cash,SKU-1028,Eucerin Urea Lotion 250ml,Skin Care,705.00,1,705.00
+TXN-7514,2026-09-24 17:34,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-57081,Omar Fawzy,01554506775,Cash,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,1,86.00
+TXN-7514,2026-09-24 17:34,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-57081,Omar Fawzy,01554506775,Cash,SKU-1015,Omega-3 1000mg 30 Caps,Vitamins & Supplements,345.00,1,345.00
+TXN-7514,2026-09-24 17:34,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-57081,Omar Fawzy,+20 15 5450 6775,Cash,SKU-1004,Augmentin 1g 14 Tabs,Antibiotics,188.00,1,188.00
+TXN-7514,2026-09-24 17:34,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-57081,Omar Fawzy,01554506775,Cash,SKU-1022,Nexium 40mg 14 Tabs,Digestive Health,248.00,1,248.00
+TXN-7516,2026-09-24 18:10,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,,,,Card,SKU-1032,Sudocrem 125g,Baby Care,210.00,1,210.00
+TXN-7518,2026-09-25 21:12,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,,,,Cash,SKU-1028,Eucerin Urea Lotion 250ml,Skin Care,705.00,1,705.00
+TXN-7518,2026-09-25 21:12,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,,,,Cash,SKU-1021,Ventolin Inhaler,Cold & Flu,86.00,2,172.00
+TXN-7520,2026-09-25 10:46,BR-01,Dawaya Heliopolis,"12 El Merghany Street, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-27574,Mostafa Fawzy,01514055065,Cash,SKU-1007,Concor 5mg 30 Tabs,Cardiovascular,92.00,2,184.00
+TXN-7521,2026-09-25 09:35,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-30091,Hana Naguib,01240660460,Card,SKU-1008,Lipitor 20mg 30 Tabs,Cardiovascular,336.00,1,336.00
+TXN-7521,2026-09-25 09:35,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-30091,Hana Naguib,01240660460,Card,SKU-1002,Brufen 400mg 30 Tabs,Pain Relief,54.00,1,54.00
+TXN-7521,2026-09-25 09:35,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-30091,Hana Naguib,01240660460,Card,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,1,41.00
+TXN-7523,2026-09-26 21:54,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0104,Karim Fathy,CU-96727,Reem Nasser,01020751130,Cash,SKU-1011,Amaryl 2mg 30 Tabs,Diabetes,84.00,1,84.00
+TXN-7526,2026-09-26 13:09,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-11720,Tarek Lotfy,01524275358,Cash,SKU-1019,Congestal 20 Tabs,Cold & Flu,46.00,1,46.00
+TXN-7526,2026-09-26 13:09,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-11720,Tarek Lotfy,01524275358,Cash,SKU-1017,Feroglobin 30 Caps,Vitamins & Supplements,236.00,2,472.00
+TXN-7526,2026-09-26 13:09,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-11720,Tarek Lotfy,01524275358,Cash,SKU-1022,Nexium 40mg 14 Tabs,Digestive Health,248.00,1,248.00
+TXN-7529,2026-09-27 18:31,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-92808,Mona Ibrahim,+20 11 3098 2218,Cash,SKU-1016,Vitamin D3 Drops 10ml,Vitamins & Supplements,118.00,1,118.00
+TXN-7529,2026-09-27 18:31,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-92808,Mona Ibrahim,01130982218,Cash,SKU-1023,Antinal 24 Caps,Digestive Health,38.00,2,76.00
+TXN-7529,2026-09-27 18:31,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-92808,Mona Ibrahim,01130982218,Cash,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,1,598.00
+TXN-7532,2026-09-27 20:14,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-59644,Amr Hassan,01168272647,Cash,SKU-1016,Vitamin D3 Drops 10ml,Vitamins & Supplements,118.00,1,118.00
+TXN-7532,2026-09-27 20:14,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-59644,Amr Hassan,+20 11 6827 2647,Cash,SKU-1012,Lantus SoloStar Pen,Diabetes,990.00,1,990.00
+TXN-7532,2026-09-27 20:14,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-59644,Amr Hassan,01168272647,Cash,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,655.00,2,1310.00
+TXN-7534,2026-09-27 09:47,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-63105,Laila Lotfy,01546301029,Cash,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,1,66.00
+TXN-7534,2026-09-27 09:47,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,CU-63105,Laila Lotfy,01546301029,Cash,SKU-1011,Amaryl 2mg 30 Tabs,Diabetes,84.00,2,168.00
+TXN-7535,2026-09-27 18:30,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-50306,Hassan Soliman,01058806059,Cash,SKU-1001,Panadol Extra 24 Tabs,Pain Relief,72.00,2,144.00
+TXN-7535,2026-09-27 18:30,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-50306,Hassan Soliman,01058806059,Cash,SKU-1031,Johnson's Baby Shampoo 300ml,Baby Care,118.00,3,354.00
+TXN-7538,2026-09-28 19:16,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0109,Dina El-Gamal,CU-50701,Rania Farouk,01277407662,Cash,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,1,598.00
+TXN-7539,2026-09-28 21:41,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-51675,Youssef Mahmoud,01073908334,Cash,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7539,2026-09-28 21:41,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-51675,Youssef Mahmoud,01073908334,Cash,SKU-1020,Otrivin Adult Nasal Spray,Cold & Flu,41.00,2,82.00
+TXN-7540,2026-09-28 17:08,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-45142,Omar Naguib,01594519362,Card,SKU-1028,Eucerin Urea Lotion 250ml,Skin Care,705.00,1,705.00
+TXN-7540,2026-09-28 17:08,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-45142,Omar Naguib,01594519362,Card,SKU-1009,Aspocid 75mg 30 Tabs,Cardiovascular,18.00,1,18.00
+TXN-7540,2026-09-28 17:08,BR-02,Dawaya Maadi,"27 Road 9, Maadi, Cairo",PH-0103,Nourhan Adel,CU-45142,Omar Naguib,01594519362,Card,SKU-1001,Panadol Extra 24 Tabs,Pain Relief,72.00,2,144.00
+TXN-7541,2026-09-29 14:17,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-51675,Youssef Mahmoud,+20 10 7390 8334,Cash,SKU-1030,Similac Gold 1 (400g),Baby Care,598.00,1,598.00
+TXN-7541,2026-09-29 14:17,BR-06,Dawaya Mansoura,"55 El-Gomhoria St, Mansoura",PH-0111,Salma Abdelrahman,CU-51675,Youssef Mahmoud,01073908334,Cash,SKU-1006,Ciprofar 500mg 10 Tabs,Antibiotics,64.00,1,64.00
+TXN-7544,2026-09-29 16:11,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,,,,Cash,SKU-1029,Pampers Size 4 (52 pcs),Baby Care,489.00,1,489.00
+TXN-7544,2026-09-29 16:11,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,,,,Cash,SKU-1006,Ciprofar 500mg 10 Tabs,Antibiotics,64.00,3,192.00
+TXN-7544,2026-09-29 16:11,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0106,Mostafa Ramadan,,,,Cash,SKU-1005,Zithromax 500mg 3 Tabs,Antibiotics,158.00,1,158.00
+TXN-7547,2026-09-29 09:14,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-63105,Laila Lotfy,01546301029,Cash,SKU-1013,Accu-Chek Test Strips 50,Diabetes,540.00,2,1080.00
+TXN-7548,2026-09-30 17:05,BR-03,Dawaya Nasr City,"71 Abbas El-Akkad St, Nasr City, Cairo",PH-0105,Heba Lotfy,CU-39440,Aya Ibrahim,01070613561,Cash,SKU-1026,CeraVe Moisturising Cream 340g,Skin Care,655.00,1,655.00
+TXN-7550,2026-09-30 18:44,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-72750,Ali Fawzy,01056762178,Cash,SKU-1027,La Roche-Posay Anthelios SPF50,Skin Care,1120.00,1,1120.00
+TXN-7550,2026-09-30 18:44,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-72750,Ali Fawzy,01056762178,Cash,SKU-1018,Comtrex 20 Tabs,Cold & Flu,52.00,3,156.00
+TXN-7550,2026-09-30 18:44,BR-05,Dawaya Smouha,"8 Victor Emmanuel Sq, Smouha, Alexandria",PH-0110,Youssef Hamdy,CU-72750,Ali Fawzy,01056762178,Cash,SKU-1014,Centrum Adults 30 Tabs,Vitamins & Supplements,655.00,2,1310.00
+TXN-7552,2026-09-30 17:08,BR-01,Dawaya Heliopolis,"12 El-Merghany St, Heliopolis, Cairo",PH-0101,Amina Mansour,CU-71042,Hassan Shalaby,01245742175,Card,SKU-1003,Cataflam 50mg 20 Tabs,Pain Relief,66.00,2,132.00
